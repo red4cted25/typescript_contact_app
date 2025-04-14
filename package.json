@@ -20,5 +20,8 @@
   "homepage": "https://github.com/red4cted25/typescript_contact_app#readme",
   "dependencies": {
     "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1"
   }
 }
