@@ -1,0 +1,24 @@
+{
+  "name": "typescript_contact_app",
+  "version": "1.0.0",
+  "description": "A TypeScript-based Contact List App that uses interfaces, arrays, functions, and classes. This project helps practice typing real-world objects and manipulating data safely with TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red4cted25/typescript_contact_app.git"
+  },
+  "keywords": [],
+  "author": "Nicolas Diaz <nicolas.m.diaz07@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/red4cted25/typescript_contact_app/issues"
+  },
+  "homepage": "https://github.com/red4cted25/typescript_contact_app#readme",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
